@@ -1,8 +1,30 @@
 {
-  "..\\src\\pages\\IndexPage.js -> ../components/LatestProjectsIsotop": {
-    "id": "..\\src\\pages\\IndexPage.js -> ../components/LatestProjectsIsotop",
+  "..\\src\\pages\\Index4Page.js -> ../components/LatestProjectsIsotop": {
+    "id": 7507,
     "files": [
-      "static/chunks/src_components_LatestProjectsIsotop_js.js"
+      "static/chunks/3391.48d9c4aa8abaa016.js",
+      "static/chunks/7507.d57f2490db87eb0c.js"
+    ]
+  },
+  "..\\src\\pages\\IndexPage.js -> ../components/LatestProjectsIsotop": {
+    "id": 7507,
+    "files": [
+      "static/chunks/3391.48d9c4aa8abaa016.js",
+      "static/chunks/7507.d57f2490db87eb0c.js"
+    ]
+  },
+  "..\\src\\pages\\PortfolioPage.js -> ../components/LatestProjectsIsotop": {
+    "id": 7507,
+    "files": [
+      "static/chunks/3391.48d9c4aa8abaa016.js",
+      "static/chunks/7507.d57f2490db87eb0c.js"
+    ]
+  },
+  "..\\src\\pages\\ServiceDetailsPage.js -> ../components/LatestProjectsIsotop": {
+    "id": 7507,
+    "files": [
+      "static/chunks/3391.48d9c4aa8abaa016.js",
+      "static/chunks/7507.d57f2490db87eb0c.js"
     ]
   }
 }
